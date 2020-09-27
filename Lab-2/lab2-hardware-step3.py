@@ -2,6 +2,7 @@ from sense_hat import SenseHat
 from random import randint
 from time import sleep
 
+#Using a SenseHAT
 sense = SenseHat()
 
 while True:

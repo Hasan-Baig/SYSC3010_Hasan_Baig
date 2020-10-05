@@ -14,7 +14,7 @@ while True:
     if event.action == "pressed":
       if selection == False:
         # Show first intial 
-        sense.show_letter("H")
+        sense.show_letter("A")
         selection = True
       else:
         # Show last intial

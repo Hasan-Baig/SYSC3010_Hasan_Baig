@@ -1,3 +1,5 @@
+#Performing the following tutorial: https://projects.raspberrypi.org/en/projects/sense-hat-random-sparkles/1
+
 from sense_hat import SenseHat
 from random import randint
 from time import sleep
